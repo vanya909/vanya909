@@ -12,6 +12,3 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vanya909&theme=moonlight)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vanya909&theme=dracula" alt="vanya909" /></a> </p>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vanya909&theme=moonlight&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=moonlight)

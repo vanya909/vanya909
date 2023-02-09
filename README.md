@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF757E&multiline=true&width=435&height=60&lines=Hi+there%2C+I'm+Ivan.;Python+Backend+Developer.)](https://git.io/typing-svg)
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
